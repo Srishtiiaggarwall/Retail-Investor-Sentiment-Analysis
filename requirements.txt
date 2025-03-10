@@ -1,0 +1,12 @@
+pandas
+numpy
+praw
+tqdm
+ipykernel
+nltk
+matplotlib
+scikit-learn
+emoji
+seaborn
+xgboost
+streamlit
