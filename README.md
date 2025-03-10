@@ -1,2 +1,2 @@
-# Retail-Invstor-Sentiment-Analysis
+# Retail-Investor-Sentiment-Analysis
 NLP project that demonstrates the sentiment classification of investors tweets from twitter
